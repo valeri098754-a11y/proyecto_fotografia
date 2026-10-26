@@ -1,5 +1,5 @@
 # Mi Proyecto Web
-### Alumno: [   Valeria Anguiano Martinez]
+### Alumno: [   Valeria Anguiano Martinez ]
 
 ## Actividades de mi proyecto
 1. Creación de la estructura base del proyecto.
@@ -12,7 +12,7 @@
 * **Descripción:** Redacción de los objetivos y detalles del proyecto.
 * **Formularios:** Implementación de campos de entrada para los usuarios.
 * **Enlaces:** Configuración de redirecciones entre vistas.
-* **Otras ventanas:** Desarrollo de páginas secundarias.
+
 
 ## Bloque de código de ejemplo
 ```html
@@ -25,7 +25,7 @@
 <body>
     <h1>Registro</h1>
     <form>
-        <label>Nombre:</label>
+        <label>Nombre: Valeriaaa</label>
         <input type="text" name="nombre">
     </form>
 </body>
