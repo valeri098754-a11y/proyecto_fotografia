@@ -21,7 +21,7 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 18px 50px;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgb(255, 118, 118);
   backdrop-filter: blur(10px);
 }
 
